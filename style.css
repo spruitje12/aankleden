@@ -1,0 +1,188 @@
+body{
+    background-color: #e0d4cc;
+    background-image: url(img/achtergrond.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#rodeloperachtergrond{
+background-image: url(img/rodeloper.png);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    border: 8px solid palevioletred;
+    border-radius: 1em;
+    background-color: palevioletred;
+    padding: 0.5em;
+    margin-left: 400px;
+    margin-right: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    border: 8px solid palevioletred;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: palevioletred;
+    margin-left: 1200px;
+    border-radius: 1em;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a{
+text-decoration: none;
+}
+
+ul{
+    display: flex;
+    justify-content:center;
+    list-style: none;
+    margin-top: 5em;
+}
+
+.aangekleed{
+    margin-left: 200px;
+}
+
+.poplicht{
+    display: flex;
+    justify-content: center;
+    margin-top: 0.5em;
+    height: 850px;
+}
+
+.kleding{
+    display: flex;
+    justify-content: center;
+}
+
+.kleding img{
+    width: 200px;
+    padding: 30px;
+    height: 200px;
+}
+
+.onderkleding{
+    display: flex;
+    justify-content: center;
+}
+
+.onderkleding img{
+    width: 175px;
+    padding: 30px;
+    height: 175px;
+}
+
+.hidden{
+    opacity: 0;
+}
+
+.tweerok{
+   position: absolute;
+   margin-top: -890px;
+}
+
+.spijkertwee{
+    position: absolute;
+    margin-top: -880px;
+}
+
+#rok{
+    position: absolute;
+    margin-right: 1300px;
+    margin-top: -1000px;
+}
+
+#kortebroek{
+    position: absolute;
+    margin-right: 700px;
+    margin-top: -850px;
+}
+
+#blauwrok{
+    position: absolute;
+    margin-right:1200px;
+    margin-top: -650px;
+}
+
+#shirt{
+    position: absolute;
+    margin-left:1200px;
+    margin-top: -750px;
+}
+
+#top{
+    position: absolute;
+    margin-left:800px;
+    margin-top: -550px;
+}
+
+#topwit{
+    position: absolute;
+    margin-left:1250px;
+    margin-top: -350px;
+    width: 150px;
+    height: 150px;
+}
+
+.kleurschoen{
+    position: absolute;
+    margin-top: -490px;
+    margin-bottom: 200px;
+    margin-left: 13px;
+}
+
+#gympen{
+    width: 125px;
+}
+
+.wittegympen{
+    position: absolute;
+    margin-top: -495px;
+    margin-left: 13px;
+}
+
+#gymwit{
+    width: 100px;
+}
+
+.shirttwee{
+    position: absolute;
+    margin-top: -720px;
+}
+
+.truitjetwee{
+    position: absolute;
+    margin-top: -700px;
+}
+
+.bruinhaartwee{
+    position: absolute;
+    margin-top: -901px;
+    margin-right: 17px;
+}
+
+#haarbruin{
+    width: 190px;
+    height: 250px;
+}
+
+.rozehaartwee{
+    position: absolute;
+    margin-top: -877px;
+    margin-right: 17px;
+}
+
+#haarroze{
+    width: 150px;
+    height: 250px;
+}
